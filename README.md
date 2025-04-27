@@ -24,7 +24,6 @@ The main objective of Edu Tutor is to create a personalized learning experience 
 ## 🧠 Team & Approach
 
 Null Terminators
-`Your team name here`
 
 ### Team Members:  
 - Name 1 PENDYALA HEMANTH KUMAR
@@ -81,12 +80,6 @@ Powered by Node.js + Express.js to efficiently manage API requests and database 
 ---
 
 ## ✅ Tasks & Bonus Checklist
-
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
 
 ---
 
