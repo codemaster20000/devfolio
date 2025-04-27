@@ -59,7 +59,15 @@ The combination of these technologies provides a smooth, engaging, and education
 
 ## ✨ Key Features
 
-Highlight the most important features of your project:
+1.Multi-Input AI Support:
+Integrated Groq AI to process images, audio, and text inputs and deliver step-by-step solutions.
+
+2.Fast and Interactive UI:
+Built with React + Vite for a super quick, responsive, and smooth user experience.
+
+3.Robust Backend:
+Powered by Node.js + Express.js to efficiently manage API requests and database operations.
+
 
 -
 
