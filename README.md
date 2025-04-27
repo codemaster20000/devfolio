@@ -28,6 +28,7 @@ Null Terminators
 ### Team Members:  
 - Name 1 PENDYALA HEMANTH KUMAR
 - Name 2 BATTULA CHARAN KUMAR
+- Name 3 Gopoji Sanjay
 
 ### Your Approach:  
 - I built the project using React and Vite for the frontend, offering a fast and interactive UI. The Node.js and Express.js backend handles user requests and integrates seamlessly with the database. MongoDB is used for flexible, scalable data storage.
@@ -74,8 +75,7 @@ Powered by Node.js + Express.js to efficiently manage API requests and database 
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link: *https://youtu.be/RosCEzqPQzk* 
 
 ---
 
