@@ -23,7 +23,7 @@ The main objective of Edu Tutor is to create a personalized learning experience 
 
 ## 🧠 Team & Approach
 
-### Team Name:  
+Null Terminators
 `Your team name here`
 
 ### Team Members:  
@@ -85,9 +85,9 @@ Highlight the most important features of your project:
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- Node.js ,react+vite,Mongo DB
+- groq API Keys
+- .env file setup 
 
 ### Local Setup:
 ```bash
@@ -108,24 +108,21 @@ Provide any backend/frontend split or environment setup notes here.
 
 ## 🧬 Future Scope
 
-List improvements, extensions, or follow-up features:
+In the future, I plan to expand AI capabilities to support real-time doubt solving during live classes. More educational games across different subjects can be added to enhance engagement. A personalized learning dashboard with AI progress tracking could be developed. Integration of multilingual support will make the platform accessible to a wider audience.
 
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
 
 ---
 
 ## 📎 Resources / Credits
 
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
+- Groq APIs and Mongo DB used  
+  
 
 ---
 
 ## 🏁 Final Words
 
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
+One big challenge I faced was integrating the Groq AI API smoothly across different input types (image, audio, text), but it pushed me to learn a lot about handling media data efficiently. Another challenge was managing time between building core features and adding the fun math games section.
+
 
 ---# devfolio
